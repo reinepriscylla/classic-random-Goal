@@ -1,0 +1,134 @@
+ .container {
+    height:30em;
+    weight:50em;
+    border:solid 2 em black;
+    background-color: green;
+    margin-left: 15%;
+    margin-right: 15%;
+  
+  
+   
+ }
+ .dad{
+   display: flex;
+   flex-wrap: nowrap;
+ }
+ .equipe{
+   display: flex;
+   flex-wrap: nowrap;
+   background-color: black;
+   margin-left: 5%;
+   padding-right: 5px;
+   border-radius: 10px;
+
+    
+ }
+ .equipe > div{
+   
+ }
+ p{
+   color: yellow;
+   font-size: 15px;
+   margin-top: 10%;
+   font-weight: bold;
+ }
+ h1{
+   color: white;
+ }
+ .dad .image{
+    height: 30px;
+    width: 30px;
+   
+}
+
+.dad .imag{
+    height: 30px;
+    width: 30px;
+  
+}
+.dad .ligue{
+  margin-left: 150%;
+}
+.container .ball{
+   margin-right: 90%;
+ margin-left: 45%;
+
+}
+.dad .equipe{
+  margin: 0px;
+  margin-top: 3%;
+  margin-bottom: 10%;
+}
+.dad .tableau{
+ margin-left: 57%;
+
+}
+
+ .score { 
+  height: 2em ;
+  width: 20%;
+  weight:5em;
+  border: solid  2 em black;
+  background-color: black;
+
+}
+.tableau{
+   background-color: black;
+   
+}
+.om{
+   height: 30px;
+    width: 30px;
+    margin: 0;
+    padding: 5px;
+    
+
+}
+.psg{
+   height: 30px;
+    width: 30px;
+   
+    display: flex;
+    flex-wrap: nowrap;
+     margin: 0;
+    padding: 0;
+}
+.trophet{
+    height: 20px;
+    width: 20px;
+   
+    display: flex;
+    flex-wrap: nowrap;
+   margin: 0; 
+   padding: 0;
+   margin-top: 10px;
+
+
+}
+.coupe{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 5px;
+}
+.nom{
+   color: white;
+   font-size: 10px;
+   
+}
+.club1{
+   display: flex;
+    flex-wrap: nowrap;
+}
+.club2{
+   display: flex;
+    flex-wrap: nowrap;
+}
+.paris{
+   color: white;
+   font-size: 10px;
+
+}
+.coupeparis{
+   padding: 5px;
+   margin-bottom: 10px;
+}
